@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [androidx.room:room-rxjava2:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\2e1d78254f8bf4c76f7c67f8d849a2c9\room-rxjava2-2.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\47fc3950c814b04977735368112c37af\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -51,20 +51,20 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b0cb73568392eb9046ab263e5155d0bc\versionedparcelable-1.1.0-alpha02\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\dd07c8f20c3fc4efd340494813a54e35\lifecycle-viewmodel-2.1.0-alpha03\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:2:11-69
@@ -81,7 +81,7 @@ ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:9:5-31:19
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:9:5-34:19
 MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -110,32 +110,40 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\
 		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:15:9-40
-activity#fr.ec.producthunt.ui.home.MainActivity
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:17:9-25:20
+activity#fr.ec.producthunt.MainActivity
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:16:9-19:68
 	android:label
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:18:13-56
+	android:theme
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:18:13-49
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:17:13-41
+activity#fr.ec.producthunt.ui.home.MainActivity
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:21:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:27-74
 activity#fr.ec.producthunt.ui.detail.DetailActivity
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:9-71
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:29:9-62
 	android:name
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:19-59
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:29:19-59
 service#fr.ec.producthunt.data.SyncService
-ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:28:9-30:48
+ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:32:13-45
 uses-sdk
 INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml

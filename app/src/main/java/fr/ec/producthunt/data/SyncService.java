@@ -3,13 +3,12 @@ package fr.ec.producthunt.data;
 import android.app.IntentService;
 import android.content.Context;
 import android.content.Intent;
+import android.util.Log;
 
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
-import android.util.Log;
-
 import static android.content.ContentValues.TAG;
-import static fr.ec.producthunt.ui.home.PostsFragments.SyncPostReceiver.ACTION_LOAD_POSTS;
+import static fr.ec.producthunt.ui.home.HomeFragment.SyncPostReceiver.ACTION_LOAD_POSTS;
 
 /**
  * An {@link IntentService} subclass for handling asynchronous task requests in
