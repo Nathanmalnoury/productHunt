@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.ec.producthunt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <application
+15-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:9:5-31:19
+16        android:allowBackup="true"
+16-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0-alpha05] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\9455cb9920c8b3e9038e55b4de4a8cc6\core-1.1.0-alpha05\AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:15:9-40
+25        <activity
+25-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:17:9-25:20
+26            android:name="fr.ec.producthunt.ui.home.MainActivity"
+26-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:18:13-49
+27            android:label="@string/app_name" >
+27-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:19:13-45
+28            <intent-filter>
+28-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:21:17-69
+29-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:23:17-77
+31-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="fr.ec.producthunt.ui.detail.DetailActivity" />
+34-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:9-71
+34-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:26:19-59
+35
+36        <service
+36-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:28:9-30:48
+37            android:name="fr.ec.producthunt.data.SyncService"
+37-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:29:13-45
+38            android:exported="false" />
+38-->C:\Users\Nathan\Documents\Producthunt-solution\app\src\main\AndroidManifest.xml:30:13-37
+39        <service
+39-->[androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+40            android:name="androidx.room.MultiInstanceInvalidationService"
+40-->[androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+41            android:exported="false" />
+41-->[androidx.room:room-runtime:2.2.1] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\a8fb54ced0dad97cc5a98b80b1f03cea\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+42
+43        <provider
+43-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+44            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+44-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+45            android:authorities="fr.ec.producthunt.lifecycle-process"
+45-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+46            android:exported="false"
+46-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+47            android:multiprocess="true" />
+47-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Nathan\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+48    </application>
+49
+50</manifest>
